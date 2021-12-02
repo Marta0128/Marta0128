@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marta0128
--I’m interested in SQL, Tableau and becoming a data analyst!
--I have completed the Google Data Analytics Certificte Course. 
--I’m looking to collaborate on beginner projects. I have so many questions!
+-I’m interested in SQL, Tableau and becoming a data analyst! I have completed the Google Data Analytics Certificte Course. 
+I’m looking to collaborate on beginner projects. I have so many questions!
 -Reach me via email Orellana1147@gmail.com
 
 <!---
